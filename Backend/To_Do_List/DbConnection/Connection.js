@@ -3,7 +3,7 @@ const connection=require("mysql");
 var newConnection=connection.createConnection({
     host:'127.0.0.1',
     user:'root',
-    password:'rohan0607',
+    password:'*****',
     database:'task_track',
     port:3306
 })
